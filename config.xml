@@ -1,0 +1,27 @@
+<acpro>
+  <config>
+    <server>JayVijay</server>
+    <db>M</db>
+    <remoteaccess>No</remoteaccess>
+    <remotecode>
+    </remotecode>
+    <remoteport>40077</remoteport>
+    <remoterow>10</remoterow>
+    <dealername>
+    </dealername>
+    <dealerphone>
+    </dealerphone>
+    <dealerweburl>
+    </dealerweburl>
+    <dealerplace>
+    </dealerplace>
+    <autobackup>Yes</autobackup>
+    <litemode>No</litemode>
+    <compcode>00001</compcode>
+    <tallyport>9000</tallyport>
+    <weightcommport>COM1</weightcommport>
+    <weightbaudrate>9600</weightbaudrate>
+    <backuppath>
+    </backuppath>
+  </config>
+</acpro>
